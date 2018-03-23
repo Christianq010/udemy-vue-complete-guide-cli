@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <app-server-status></app-server-status>
     <HelloWorld msg="Vue.js App"/>
+    <app-server></app-server>
   </div>
 </template>
 
